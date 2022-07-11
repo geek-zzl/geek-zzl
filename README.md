@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=geek-zzl.geek-zzl)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
@@ -48,7 +48,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 📝 Blogs
+<!-- ## 📝 Blogs
 
 - Personal website and blog: https://zhenye-na.github.io/
 - Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
@@ -98,3 +98,4 @@ me.say_hi()
 
 [![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geek-zzl&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
 
+ -->
